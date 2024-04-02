@@ -1,0 +1,8 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\gfhju\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(25,39): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\gfhju\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(39,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gfhju\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(40,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gfhju\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(52,43): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\gfhju\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(52,38): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\gfhju\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(52,33): warning C4305: аргумент: усечение из "double" в "float"
+  ConsoleApplication2.vcxproj -> C:\Users\gfhju\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
